@@ -1,7 +1,7 @@
 package slice
 
 import (
-	"github.com/wye0220/GoDataKit/util"
+	"github.com/wye0220/go-data-kit/util"
 )
 
 // Sum calculates the sum of a slice of numbers of a generic type T.
