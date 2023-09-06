@@ -1,3 +1,3 @@
 module github.com/wye0220/go-data-kit
 
-go 1.21.0
+go 1.21
